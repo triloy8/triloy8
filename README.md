@@ -1,16 +1,26 @@
-## Hi there 👋
+ML/AI Engineer interested in training systems, inference, research implementations, and practical AI products.
 
-<!--
-**triloy8/triloy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ ML Engineering / Systems / Inference
 
-Here are some ideas to get you started:
+- [leash](https://github.com/triloy8/leash): reusable runtime for training loops, DDP, checkpointing, logging, objectives, data utilities, and basic generation across generative model projects.
+- [text-diffusion-inference](https://github.com/triloy8/text-diffusion-inference): text diffusion inference stack shaped around practical serving and deployment concerns.
+- [triton-playground](https://github.com/triloy8/triton-playground): experiments with Triton kernels and low-level performance work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 ML Research / Paper Implementations
+
+- [transformerlm](https://github.com/triloy8/transformerlm): from-scratch Transformer LM repo with autoregressive and diffusion objectives, built as a thin experiment layer on top of `leash`.
+- [minSD15](https://github.com/triloy8/minSD15): educational re-implementation of the Stable Diffusion 1.5 sampling pipeline.
+- [generative-dungeon-maps](https://github.com/triloy8/generative-dungeon-maps): procedural content generation via reinforcement learning for dungeon maps.
+
+## 🤖 AI Engineering
+
+- [retriever](https://github.com/triloy8/retriever): Pythonic RAG system for RSS feeds.
+
+## 🦀 Rust
+
+- [ragfeed-rs](https://github.com/triloy8/ragfeed-rs): Rust implementation of retrieval workflows for RSS feeds.
+- [rust-web-server](https://github.com/triloy8/rust-web-server): multithreaded web server built in Rust.
+
+## ✍️ Elsewhere
+
+- [triloy8.github.io](https://github.com/triloy8/triloy8.github.io): blog, notes, and longer-form writing.
