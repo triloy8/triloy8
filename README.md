@@ -14,6 +14,7 @@ ML/AI Engineer interested in training systems, inference, research implementatio
 
 ## 🤖 AI Engineering
 
+- [shepherd](https://github.com/triloy8/shepherd): opinionated application layer around Codex app-server.
 - [retriever](https://github.com/triloy8/retriever): Pythonic RAG system for RSS feeds.
 
 ## 🦀 Rust
